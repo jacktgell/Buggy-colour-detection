@@ -1,6 +1,4 @@
-/*
-Faisal Fazal-ur-rehman
-*/
+
 #include "mbed.h"
 #include "motor.h"
 #include "tunes.h"
